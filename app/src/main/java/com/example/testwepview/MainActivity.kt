@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         webView.webViewClient = WebViewClient()
         // this will load the url of the website
-        webView.loadUrl("https://chatbot.zatca.gov.sa/maker/GaztProd/Main/ar/index_PROD.html")
+        webView.loadUrl("https://github.com/")
         // this will enable the javascript settings
         webView.settings.javaScriptEnabled = true
         // if you want to enable zoom feature
